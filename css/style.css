@@ -1793,6 +1793,7 @@ figure {
 
 #fh5co-header .container p.home-desc {
   color: #fff;
+  font-size:24px;
 }
 
 /*# sourceMappingURL=style.css.map */
@@ -1847,4 +1848,9 @@ figure {
 #fh5co-project .media-body.media-middle.involved-desc {
   padding-left: 30px;
   padding-right: 30px;
+}
+
+dd
+{
+	margin-bottom:20px;
 }
