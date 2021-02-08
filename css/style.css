@@ -1835,9 +1835,11 @@ figure {
 .middleBox table tbody,
 .middleBox table tbody tr,
 .middleBox table tbody tr td {
-  width: 100%;
-  max-width: 750px;
-  padding: 20px;
+	border-collapse: separate;
+ 	border-spacing: 40px;
+  	width: 100%;
+ 	max-width: 920px;
+ 	padding: 20px;
 }
 
 .middleBox table tbody tr td p,
@@ -1853,4 +1855,16 @@ figure {
 dd
 {
 	margin-bottom:20px;
+}
+#senior{
+	text-align: left;
+}
+#rsources {
+	left: 0;
+	margin-left: 0;
+	width: 100%
+}
+
+#subscribe {
+	text-align:right;
 }
