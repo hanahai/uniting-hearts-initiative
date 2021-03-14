@@ -109,6 +109,9 @@ figure {
   .fh5co-nav {
     padding: 20px 0;
   }
+.uledition {
+}
+
 }
 .fh5co-nav #fh5co-logo {
   font-size: 24px;
@@ -1871,4 +1874,32 @@ dd
 
 #acr {
 	margin-right: 40px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+#uledition {
+	list-style-position: outside;	
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+
+#uledition1 {
+	list-style-position: outside;	
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	text-indent: -1em;
+}
+
+
+.landscape {
+	max-width:200%;
+	max-height:200%;
+}
+
+.rrows {
+	float:center;
 }
