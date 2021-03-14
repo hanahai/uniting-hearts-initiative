@@ -1898,3 +1898,11 @@ dd
 #resourcetble {
 	padding: 50px;
 }
+
+#cslideshow {
+	border-spacing: 40px; 
+}
+
+#cardsmade {
+	padding-top: 20px;
+}
