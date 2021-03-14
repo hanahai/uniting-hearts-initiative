@@ -1895,11 +1895,6 @@ dd
 }
 
 
-.landscape {
-	max-width:200%;
-	max-height:200%;
-}
-
-.rrows {
-	float:center;
+#resourcetble {
+	padding: 50px;
 }
