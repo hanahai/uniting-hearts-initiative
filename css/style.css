@@ -1903,12 +1903,27 @@ dd
 	border-spacing: 40px; 
 }
 
-#cardsmade {
-	padding-top: 20px;
-}
 
 #ctfm {
 	margin: 0px;
 	padding: 0px; 
 }
 
+#programtble {
+	width: 60%;
+	align: center;
+	padding: 20%;
+	table-layout: fixed;
+	
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.imageContainer > img:hover {
+	width: 500px;
+	height: 200px;
+}
+}
